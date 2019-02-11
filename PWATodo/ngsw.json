@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "/PWATodo/index.html",
+  "index": "https://valderlisaturno.github.io/PWATodo/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/PWATodo/favicon.ico",
-        "/PWATodo/index.html",
-        "/PWATodo/main.d27edc8bc27356055109.js",
-        "/PWATodo/polyfills.46532d96d3286697c138.js",
-        "/PWATodo/runtime.a5dd35324ddfd942bef1.js",
-        "/PWATodo/styles.f2eb1e5a33b7f1ba4a95.css"
+        "https://valderlisaturno.github.io/PWATodo/favicon.ico",
+        "https://valderlisaturno.github.io/PWATodo/index.html",
+        "https://valderlisaturno.github.io/PWATodo/main.d27edc8bc27356055109.js",
+        "https://valderlisaturno.github.io/PWATodo/polyfills.46532d96d3286697c138.js",
+        "https://valderlisaturno.github.io/PWATodo/runtime.a5dd35324ddfd942bef1.js",
+        "https://valderlisaturno.github.io/PWATodo/styles.f2eb1e5a33b7f1ba4a95.css"
       ],
       "patterns": []
     },
@@ -21,42 +21,42 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/PWATodo/MaterialIcons-Regular.012cf6a10129e2275d79.woff",
-        "/PWATodo/MaterialIcons-Regular.570eb83859dc23dd0eec.woff2",
-        "/PWATodo/MaterialIcons-Regular.a37b0c01c0baf1888ca8.ttf",
-        "/PWATodo/MaterialIcons-Regular.e79bfd88537def476913.eot",
-        "/PWATodo/assets/icons/icon-128x128.png",
-        "/PWATodo/assets/icons/icon-144x144.png",
-        "/PWATodo/assets/icons/icon-152x152.png",
-        "/PWATodo/assets/icons/icon-192x192.png",
-        "/PWATodo/assets/icons/icon-384x384.png",
-        "/PWATodo/assets/icons/icon-512x512.png",
-        "/PWATodo/assets/icons/icon-72x72.png",
-        "/PWATodo/assets/icons/icon-96x96.png"
+        "https://valderlisaturno.github.io/PWATodo/MaterialIcons-Regular.012cf6a10129e2275d79.woff",
+        "https://valderlisaturno.github.io/PWATodo/MaterialIcons-Regular.570eb83859dc23dd0eec.woff2",
+        "https://valderlisaturno.github.io/PWATodo/MaterialIcons-Regular.a37b0c01c0baf1888ca8.ttf",
+        "https://valderlisaturno.github.io/PWATodo/MaterialIcons-Regular.e79bfd88537def476913.eot",
+        "https://valderlisaturno.github.io/PWATodo/assets/icons/icon-128x128.png",
+        "https://valderlisaturno.github.io/PWATodo/assets/icons/icon-144x144.png",
+        "https://valderlisaturno.github.io/PWATodo/assets/icons/icon-152x152.png",
+        "https://valderlisaturno.github.io/PWATodo/assets/icons/icon-192x192.png",
+        "https://valderlisaturno.github.io/PWATodo/assets/icons/icon-384x384.png",
+        "https://valderlisaturno.github.io/PWATodo/assets/icons/icon-512x512.png",
+        "https://valderlisaturno.github.io/PWATodo/assets/icons/icon-72x72.png",
+        "https://valderlisaturno.github.io/PWATodo/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/PWATodo/MaterialIcons-Regular.012cf6a10129e2275d79.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
-    "/PWATodo/MaterialIcons-Regular.570eb83859dc23dd0eec.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
-    "/PWATodo/MaterialIcons-Regular.a37b0c01c0baf1888ca8.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
-    "/PWATodo/MaterialIcons-Regular.e79bfd88537def476913.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
-    "/PWATodo/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/PWATodo/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/PWATodo/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/PWATodo/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/PWATodo/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/PWATodo/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/PWATodo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/PWATodo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/PWATodo/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/PWATodo/index.html": "6045ba613ddcd6965f3391d8499fb89d62c9f0da",
-    "/PWATodo/main.d27edc8bc27356055109.js": "819fd7008b448c0ca3c968867b4b071278228865",
-    "/PWATodo/polyfills.46532d96d3286697c138.js": "6946e10a03311677a01490b8e91741668e64e17e",
-    "/PWATodo/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "/PWATodo/styles.f2eb1e5a33b7f1ba4a95.css": "ee4222f33ad34b7c1ac6eee3ead04eaea6abb46a"
+    "https://valderlisaturno.github.io/PWATodo/MaterialIcons-Regular.012cf6a10129e2275d79.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
+    "https://valderlisaturno.github.io/PWATodo/MaterialIcons-Regular.570eb83859dc23dd0eec.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
+    "https://valderlisaturno.github.io/PWATodo/MaterialIcons-Regular.a37b0c01c0baf1888ca8.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
+    "https://valderlisaturno.github.io/PWATodo/MaterialIcons-Regular.e79bfd88537def476913.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
+    "https://valderlisaturno.github.io/PWATodo/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://valderlisaturno.github.io/PWATodo/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://valderlisaturno.github.io/PWATodo/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://valderlisaturno.github.io/PWATodo/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://valderlisaturno.github.io/PWATodo/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://valderlisaturno.github.io/PWATodo/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://valderlisaturno.github.io/PWATodo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://valderlisaturno.github.io/PWATodo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://valderlisaturno.github.io/PWATodo/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://valderlisaturno.github.io/PWATodo/index.html": "06f7c0c9d42ba52f7d318050596d986f05d3bae7",
+    "https://valderlisaturno.github.io/PWATodo/main.d27edc8bc27356055109.js": "819fd7008b448c0ca3c968867b4b071278228865",
+    "https://valderlisaturno.github.io/PWATodo/polyfills.46532d96d3286697c138.js": "6946e10a03311677a01490b8e91741668e64e17e",
+    "https://valderlisaturno.github.io/PWATodo/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://valderlisaturno.github.io/PWATodo/styles.f2eb1e5a33b7f1ba4a95.css": "ee4222f33ad34b7c1ac6eee3ead04eaea6abb46a"
   },
   "navigationUrls": [
     {
